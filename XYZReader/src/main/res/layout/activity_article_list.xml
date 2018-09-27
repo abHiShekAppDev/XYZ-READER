@@ -9,10 +9,8 @@
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
-        android:elevation="@dimen/x4"
         android:layout_height="wrap_content"
-        android:theme="@style/Theme.Bacon"
-        tools:targetApi="lollipop">
+        android:theme="@style/Theme.Bacon">
 
         <android.support.design.widget.CollapsingToolbarLayout
             android:layout_height="match_parent"

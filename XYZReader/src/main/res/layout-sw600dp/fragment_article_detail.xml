@@ -39,7 +39,6 @@
                 android:layout_gravity="center_horizontal"
                 android:background="@color/white"
                 android:elevation="@dimen/x2"
-                android:maxWidth="@dimen/detail_card_max_width"
                 android:orientation="vertical"
                 tools:targetApi="lollipop">
 

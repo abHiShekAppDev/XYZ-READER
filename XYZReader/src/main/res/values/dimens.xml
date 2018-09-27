@@ -4,7 +4,7 @@
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
     <dimen name="fab_elevation">2dp</dimen>
-    <dimen name="fab_press_translation_z">12dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
 
     <dimen name="x2">2dp</dimen>
@@ -14,4 +14,5 @@
     <dimen name="x100">100dp</dimen>
     <dimen name="x16">16dp</dimen>
     <dimen name="x256">256dp</dimen>
+    <dimen name="x320">320dp</dimen>
 </resources>
